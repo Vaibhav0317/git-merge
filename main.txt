@@ -1,1 +1,2 @@
 master m1
+branch_merge > merge 1
